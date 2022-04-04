@@ -7,6 +7,7 @@ First of all, you need to install all the necessary extensions from the list bel
 - [**Bracket Pair Colorization Toggler**](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)
 - [**ENV**](https://marketplace.visualstudio.com/items?itemName=IronGeek.vscode-env)
 - [**ESLint**](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [**TSLint**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [**GitLens — Git supercharged**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [**Import Cost**](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [**JetBrains IDE Keymap**](https://marketplace.visualstudio.com/items?itemName=isudox.vscode-jetbrains-keybindings)
